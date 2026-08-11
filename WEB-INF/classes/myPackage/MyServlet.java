@@ -52,7 +52,7 @@ public class MyServlet extends HttpServlet {
 		String inputdata = request.getParameter("userInput");
 		
 		// Api, input, url humne set kar dia
-		String apiKey ="3b7679cb0c809ba2eab5ea101ee2f3ab";
+		String apiKey ="Enter your Api key";
 		String city = inputdata;
 		String apiURL = "https://api.openweathermap.org/data/2.5/weather?q="+ city +"&appid="+ apiKey;
 		
