@@ -2,6 +2,8 @@
 
 A small Java-based web application that displays weather information. The project includes HTML and JSP files and is intended to be deployed on a Java web container such as Apache Tomcat.
 
+Public demo: https://weather-image-latest.onrender.com/home.html
+
 ## Contents
 
 - home.html — Landing page / form to enter a city or view weather
