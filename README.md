@@ -9,7 +9,10 @@ A small Java-based web application that displays weather information. The projec
 ## 🌦️ Screenshot & Preview
 
 ### Application Interface
-![Weather Web App UI](https://raw.githubusercontent.com/subhadip2004999/Weather-Web-App-in-Java/main/566396.jpg)
+![Weather Web App UI](https://github.com/subhadip2004999/Weather-Web-App-in-Java/blob/a54d76229f10fe045a847bf536a0eef8be2ad31c/images/Screenshot%20(3).png)
+
+## Weather Interface
+![Weather UI](https://github.com/subhadip2004999/Weather-Web-App-in-Java/blob/6ade2a3b52556f4510435fca75333bdd5feb11a3/images/Screenshot%20(4).png)
 
 ---
 
@@ -149,6 +152,8 @@ This project is open source and available for personal and educational use.
 ---
 
 ## 📧 Contact & Support
+
+Email: businesssubhadip@gmail.com
 
 For issues, questions, or suggestions:
 - Open an **Issue** on GitHub
